@@ -1,7 +1,7 @@
 # A50 Turbo Blower — 独立站图文文案包
 
 > 适用：Shopify/独立站详情页、Google Ads、Meta (Facebook/Instagram) 广告、社媒贴文、EDM 邮件、Listing 五点描述。
-> 核心卖点：500W 大功率 / ≤90,000 RPM 无刷电机 / 650g 推力 / 4000mAh·14.8V 锂电 / Type-C 双向充放 / 630g 轻量机身
+> 核心卖点：500W 大功率 / ≤90,000 RPM 无刷电机 / 850g 推力 / 4000mAh·14.8V 锂电 / Type-C 双向充放 / 630g 轻量机身
 
 ---
 
@@ -52,7 +52,7 @@
 **Meta 广告主文案（2 组）：**
 
 A（痛点型）：
-> Still shaking dust out of your keyboard? 🌪️ The A50 Turbo Blower hits 90,000 RPM and 650g of thrust — canned air could never. One button, full blast. #TurboBlower #PCCleaning
+> Still shaking dust out of your keyboard? 🌪️ The A50 Turbo Blower hits 90,000 RPM and 850g of thrust — canned air could never. One button, full blast. #TurboBlower #PCCleaning
 
 B（场景型）：
 > One tool, every job: light the BBQ 💨🔥, dry the car after a wash, dust your PC, clean camp gear. 500W brushless power that fits in your glovebox. A50 Turbo Blower — order today.
@@ -61,7 +61,7 @@ B（场景型）：
 
 ## 5. Listing 五点描述（Bullet Points）
 
-1. **TURBO-CLASS POWER** — 500W rated output with a brushless motor spinning up to 90,000 RPM, delivering up to 650g of thrust.
+1. **TURBO-CLASS POWER** — 500W rated output with a brushless motor spinning up to 90,000 RPM, delivering up to 850g of thrust.
 2. **CORDLESS & RECHARGEABLE** — 4000mAh 14.8V Li-ion battery with 4-LED charge indicator; recharges via USB Type-C.
 3. **DUAL USB-C PORT** — Charge the blower fast, or reverse the flow and use it as an emergency power bank.
 4. **ONE-BUTTON OPERATION** — Oversized red trigger for instant full-power blast, even with gloves on.
@@ -87,7 +87,7 @@ Preheader: Canned air is dead. Meet the A50 Turbo Blower.
 ## 7. 短视频/Reels 脚本钩子（3 条）
 
 1. "POV: you never buy canned air again."（电脑除尘镜头开场）
-2. "This little red button = 650g of thrust."（按压红色按钮特写）
+2. "This little red button = 850g of thrust."（按压红色按钮特写）
 3. "3 seconds to light a BBQ. No lighter fluid."（烧烤生火对比）
 
 ---
@@ -95,7 +95,7 @@ Preheader: Canned air is dead. Meet the A50 Turbo Blower.
 ## 8. FAQ（详情页用，EN）
 
 1. **How long does the battery last on a full charge?** Runtime depends on workload; continuous full-power turbo output lasts about 15–25 minutes. The 4-LED indicator shows remaining charge anytime.
-2. **Can it replace canned air for my PC?** Yes — 90,000 RPM and 650g of thrust outblow canned air, with no propellant and zero waste.
+2. **Can it replace canned air for my PC?** Yes — 90,000 RPM and 850g of thrust outblow canned air, with no propellant and zero waste.
 3. **Can I use it while charging?** We recommend battery use; the USB-C port is two-way, so it can also top up your phone in a pinch.
 4. **Is it safe around children or pets?** The hexagon intake guard blocks fingers and hair from the impeller; supervise use around small children and pets.
 5. **What's in the box?** A50 Turbo Blower ×1, snap-on nozzle ×1, USB-C cable ×1, multilingual manual.
