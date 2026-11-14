@@ -135,13 +135,15 @@ gtag('config', 'G-84SQ382NSS');
 
 /* video review */
 .videoSec{background:#fff}
-.videoShell{max-width:900px;margin:34px auto 0;background:#fff;border:1px solid var(--line);border-radius:22px;padding:14px;box-shadow:0 20px 44px rgba(17,19,24,.08)}
+.videoGrid{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-top:34px;align-items:start}
+.videoShell{background:#fff;border:1px solid var(--line);border-radius:22px;padding:14px;box-shadow:0 20px 44px rgba(17,19,24,.08)}
 .videoFrame{position:relative;width:100%;aspect-ratio:16/9;border-radius:12px;overflow:hidden;background:#000}
 .videoFrame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
 .videoMeta{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center;justify-content:space-between;padding:14px 10px 6px}
 .videoMeta strong{font-size:14.5px}
 .videoMeta span{font-size:13px;color:var(--muted)}
 .videoMeta a{font-size:13px;font-weight:800;color:var(--orange);text-decoration:none}
+@media (max-width:900px){.videoGrid{grid-template-columns:1fr}}
 @media (max-width:640px){.videoShell{padding:10px;border-radius:16px}.videoMeta{flex-direction:column;align-items:flex-start;gap:6px}}
 
 
@@ -269,15 +271,27 @@ gtag('config', 'G-84SQ382NSS');
 <section class="videoSec" id="reviews">
   <div class="wrap">
     <h2 class="sec">See It in Action</h2>
-    <p class="sub">An independent hands-on review of the 500W turbo fan — real airflow, real noise, real results. Watch before you buy.</p>
-    <div class="videoShell">
-      <div class="videoFrame">
-        <iframe src="https://www.youtube.com/embed/TQHA3JLJ5nk" title="Watch This Before You Buy a Turbo Fan | Amazon Turbo Fan Review" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p class="sub">Real airflow from the A50 turbo blower, and a full walkthrough of the P06 power station — watch before you buy.</p>
+    <div class="videoGrid">
+      <div class="videoShell">
+        <div class="videoFrame">
+          <iframe src="https://www.youtube.com/embed/TQHA3JLJ5nk" title="Watch This Before You Buy a Turbo Fan | Amazon Turbo Fan Review" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        <div class="videoMeta">
+          <strong>Watch This Before You Buy a Turbo Fan</strong>
+          <span>Independent review &middot; 500W turbo fan tested</span>
+          <a href="https://www.youtube.com/watch?v=TQHA3JLJ5nk" target="_blank" rel="noopener">Watch on YouTube &rarr;</a>
+        </div>
       </div>
-      <div class="videoMeta">
-        <strong>Watch This Before You Buy a Turbo Fan</strong>
-        <span>Independent review &middot; 500W turbo fan tested</span>
-        <a href="https://www.youtube.com/watch?v=TQHA3JLJ5nk" target="_blank" rel="noopener">Watch on YouTube &rarr;</a>
+      <div class="videoShell">
+        <div class="videoFrame">
+          <iframe src="https://www.youtube.com/embed/Ak6cERRIIXw" title="P06 Portable Power Station" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        <div class="videoMeta">
+          <strong>P06 Portable Power Station</strong>
+          <span>Product video &middot; 1017Wh / 1200W</span>
+          <a href="https://www.youtube.com/watch?v=Ak6cERRIIXw" target="_blank" rel="noopener">Watch on YouTube &rarr;</a>
+        </div>
       </div>
     </div>
   </div>
