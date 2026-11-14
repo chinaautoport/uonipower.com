@@ -104,6 +104,16 @@ gtag('config', 'G-84SQ382NSS');
   .mcard span{font-size:13.5px;color:var(--muted)}
   .mcard i{display:inline-block;margin-top:12px;color:var(--accent);font-style:normal;font-weight:800;font-size:14px}
 
+  /* video */
+  .videoShell{max-width:900px;margin:34px auto 0;background:#fff;border:1px solid var(--line);border-radius:22px;padding:14px;box-shadow:0 20px 44px rgba(17,19,24,.08)}
+  .videoFrame{position:relative;width:100%;aspect-ratio:16/9;border-radius:12px;overflow:hidden;background:#000}
+  .videoFrame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+  .videoMeta{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center;justify-content:space-between;padding:14px 10px 6px}
+  .videoMeta strong{font-size:14.5px}
+  .videoMeta span{font-size:13px;color:var(--muted)}
+  .videoMeta a{font-size:13px;font-weight:800;color:var(--accent);text-decoration:none}
+  @media (max-width:640px){.videoShell{padding:10px;border-radius:16px}.videoMeta{flex-direction:column;align-items:flex-start;gap:6px}}
+
   /* footer */
   footer{background:var(--dark);color:#9aa3b2;padding:56px 0 0;margin-top:20px}
   .fgrid2{display:grid;grid-template-columns:1.4fr 1fr 1fr 1fr;gap:36px;padding-bottom:44px}
@@ -184,6 +194,7 @@ gtag('config', 'G-84SQ382NSS');
       </div>
       <div class="cta">
         <a class="btn btn-o" href="mailto:tradematrix@foxmail.com?subject=P06%20Order%20Inquiry">Order Inquiry</a>
+        <a class="btn btn-g" href="#video">Watch Video</a>
         <a class="btn btn-g" href="#specs">Full Specifications</a>
       </div>
       <div class="trust">
@@ -220,6 +231,23 @@ gtag('config', 'G-84SQ382NSS');
       <div class="ucard"><div class="ic">🛠️</div><b>Job Sites &amp; Events</b><span>1200W pure sine AC runs drills, grinders, speakers and lighting for outdoor work.</span></div>
       <div class="ucard"><div class="ic">🏠</div><b>Home Backup</b><span>Keeps routers, phones, lamps and medical devices alive through outages and blackouts.</span></div>
       <div class="ucard"><div class="ic">🚐</div><b>Van Life &amp; Travel</b><span>Compact 17.5 cm body with a carry handle — slide it into a van, trunk or RV bay.</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="videoSec" id="video" style="scroll-margin-top:90px">
+  <div class="wrap">
+    <h2 class="sec">See the P06 in Action</h2>
+    <p class="sub">A closer look at the P06 portable power station — capacity, outputs and real-world use.</p>
+    <div class="videoShell">
+      <div class="videoFrame">
+        <iframe src="https://www.youtube.com/embed/Ak6cERRIIXw" title="P06 Portable Power Station" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+      <div class="videoMeta">
+        <strong>P06 Portable Power Station</strong>
+        <span>Product video &middot; 1017Wh / 1200W</span>
+        <a href="https://www.youtube.com/watch?v=Ak6cERRIIXw" target="_blank" rel="noopener">Watch on YouTube &rarr;</a>
+      </div>
     </div>
   </div>
 </section>
